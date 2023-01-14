@@ -44,7 +44,15 @@
 
     <div class="wrapper-footer">
       <div class="container">
-        <!--春节灯笼-->
+        
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+    <!--春节灯笼-->
     <div th:fragment="lantern">
     
     <div class="deng-box denglong">
@@ -79,12 +87,5 @@
 
 </div>
     <!--灯笼代码-->
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
   </body>
 </html>
