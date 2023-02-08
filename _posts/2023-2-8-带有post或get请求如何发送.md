@@ -16,5 +16,5 @@ def zaoanwenhouyu():  # 早安问候语
     print(dict_data['result']['content'])   
   
   _这个春节不知大家过的如何，今天农历十八，祝大家学业有成，幸福安康！_
-   ![](https://alifei02.cfp.cn/creative/vcg/800/new/VCG211415745113-CTE.jpg)
+   ![](https://alifei03.cfp.cn/creative/vcg/nowarter800/new/VCG41N1137573275.jpg?x-oss-process=image/format,webp)
   ##### 致敬热爱学习的你！
