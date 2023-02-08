@@ -2,7 +2,7 @@
 
   
 
-def zaoanwenhouyu(): # 早安问候语  
+def zaoanwenhouyu(): # 早安问候语
 '''  
 早安问候语  
 调用次数:100次/每天  
