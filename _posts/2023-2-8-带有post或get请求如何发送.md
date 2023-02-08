@@ -15,5 +15,7 @@ def zaoanwenhouyu():  # 早安问候语
     dict_data = json.loads(data)    
     print(dict_data['result']['content'])   
   
-  _这个春节不知大家过的如何，今天农历十八，祝大家学业有成，幸福安康_
-   ![烟花](link "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211415745113-CTE.jpg")
+  _这个春节不知大家过的如何，今天农历十八，祝大家学业有成，幸福安康！_
+   ![](https://alifei02.cfp.cn/creative/vcg/800/new/VCG211415745113-CTE.jpg)
+    
+    致敬热爱学习的你！
