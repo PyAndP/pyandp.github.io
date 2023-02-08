@@ -14,7 +14,7 @@
         data = result.decode('utf-8')   
         dict_data = json.loads(data)    
         print(dict_data['result']['content'])       
-     ##### 致敬热爱学习的你！
-     _这个春节不知大家过的如何，今天农历十八，祝大家学业有成，幸福安康！_
+ ##### 致敬热爱学习的你！
+ _这个春节不知大家过的如何，今天农历十八，祝大家学业有成，幸福安康！_
 
  
