@@ -15,4 +15,4 @@ permalink: /about/
 
 ### 联系我
 
-[email@QQ.com](mailto:1641089475@qq.com)
+[email@QQ.com](mailto:pyandp.github)
